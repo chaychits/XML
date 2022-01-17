@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
 	<website>
+          <ID> 001 </ID>
+          <Title> When you click on the "Send message" button in the feedback form, the message is not sent. </Title>
 	  <Summary> When you click on the Send a message button in the completed feedback form, nothing happens. Similar behavior if the form is not filled out. </Summary>
-<Steps> 1. Fill in the feedback form fields, 2. Click on the Send message button </Steps>
-<Expected_result> The message is sent or the system reports that it cannot be sent. </Expected_result>
-<Actual_result> The message is not sent, there is no error about sending. After pressing the button, nothing happens. </Actual_result> 
+          <Environment> Windows 10, Google Chrome Version 97.0.4692.71 (Official build), (64 bit) </Environment>
+          <Steps> 1. Fill in the feedback form fields, 2. Click on the Send message button </Steps>
+          <Expected_result> The message is sent or the system reports that it cannot be sent. </Expected_result>
+          <Actual_result> The message is not sent, there is no error about sending. After pressing the button, nothing happens. </Actual_result>
+          <Severity> Major </Severity> 
 	</website>
-</result>
+</result> 

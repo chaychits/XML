@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
 	<website>
-	   <Любимыйй_фильм> Знакомьтесь Джо Блэк </Любимыйй_фильм>
-       <Любимый_сериал> Друзья </Любимый_сериал>
-       <Любимая_еда> Морепродукты </Любимая_еда>
-       <Любимое_время_года> Лето </Любимое_время_года>
-    <Сторона_которую_хотели_бы_посетить> США </Сторона_которую_хотели_бы_посетить>
+	   <Favourite_movie> Meet Joe Black </Favourite_movie>
+           <Favourite_serial> Friends </Favourite_serial>
+           <Favourite_food> Seafood </Favourite_food>
+           <Favourite_season> Summer </Favourite_season>
+           <The_country_I_want_to_visit> The USA </The_country_I_want_to_visit>
 	</website>
 </result>
